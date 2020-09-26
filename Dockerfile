@@ -1,0 +1,2 @@
+FROM ubuntu:latest
+ENV ARDUINO_CLI_VERSION
